@@ -4,7 +4,7 @@ const Header = () => {
     <div className="header">
         <div className="headerTitles">
             <span className="headerTitleSm">React & NodeJs</span>
-            <span className="headerTitleLg">Blog</span>
+            <span className="headerTitleLg">DevStop</span>
         </div>
         <img className='headerImg' src="https://c0.wallpaperflare.com/path/920/519/697/abstract-php-c-analytics-396cccf7b174786f7fb5183c080fcdb2.jpg" />
     </div>
